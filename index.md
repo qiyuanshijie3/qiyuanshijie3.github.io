@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# 欢迎来到恒星发展中枢
 
 You can use the [editor on GitHub](https://github.com/qiyuanshijie3/qiyuanshijie3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
