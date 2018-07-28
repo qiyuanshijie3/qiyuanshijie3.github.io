@@ -1,37 +1,69 @@
-# 欢迎来到恒星发展中枢
+# 欢迎来到 邦联发展中枢
 
-You can use the [editor on GitHub](https://github.com/qiyuanshijie3/qiyuanshijie3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## UDC同盟草案（总则）
+### 一.本草案由UDC同盟共同发起，超过2/3的成参议院员同意，方可生效。
+### 二.主要组成
+2.1本同盟由六个发起群以及后续加入的群组成，详见UDC同盟组成
+2.2本同盟讨论及决议地点为 参议院
+2.3本同盟的联合形式为邦联制度，各个群保有比较多的独立性
+2.4本同盟在保持联合的基础上允许各个群的不同，但不得违反总体章程，或者故意扭曲规章
+### 三.群外合作
+3.1 联盟合作归联盟合作，群合作归群合作，群合作可以独立于但不能高于联盟合作
+3.2 联盟合作非紧急事务各个群按照意愿选择性参加，紧急事务按照事务等级派出一定的人数参加
+### 四.安保规章
+4.1 任何对于某一个群的进攻就是对全体成员的进攻
+4.2 如有任何群违反规章即为解除条约
+4.3 和谈事相由参议院审议后决定
+### 五.司法
+5.1司法部分由有关司法部门决定
+5.2 参议院可以发起反对司法部的决定，超过60%同意即否决成功
+5.3 司法部可以对群内任何由明显违规的行为进行审判
+### 六.外交
+6.1外交部必须按照相关部门的意思传达信息，不得私自扭曲信息
+6.2 外交部成员可以根据有关事项在参议院发起提案
+### 七.议会
+7.1 议会主要由参议院执行，议会拥有其认为拥有的权力
+7.2 参议院由每个群各派五人组成
+7.3 议会通过法案需要由一半以上的成员同意
+7.4众议院由每群派（√(群人数)/5四舍五入）个人组成
+7.5众议院由过2/3通票数即为通过
+7.6若两院结果不同，则移交只有群主讨论的中枢决定
+7.7司法可以否决议案，但是法案在两院以2/3以上同意后，即可视为法案强制通过
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 联邦公约
+   UDC
+ UDC后续法案
+### 加盟退盟条例
+本UDC由六个中枢群和十个成员群组成
+中枢群为创始六群
+十成员群为后续入盟
+两者分开管理
+### 对于成员群，以下要求
+1，绝对忠于UDC：绝对遵守UDC条例，绝对尊重UDC所有人员，绝对服从UDC所有安排。
+2，人数大于等于50人：不多解释
+3，禁止私自拉联盟内的人进入己群：如有发现，视为叛变，将永久拉黑于联盟之外。
+4，成员群需要流通活跃，经常参加UDC举行的各类活动
+5，退盟成员不可再加盟
 
-### Markdown
+### 关于惩罚制度
+各个成员群都会有中枢代表长期驻守
+如果发现群有违规
+以下违规情节严重退盟，情节不严重则短期收取其投票权和在众议院或者参议院中的议员代表。短期禁止参加UDC活动。视情况而定：
+背叛UDC：指违反UDC通过的条例或者不遵守UDC下达的指令
+讨论政治敏感话题（直接强制性移出联盟，启动绝对拉黑）
+对其他成员群不尊重
+在活动中不遵守活动规则（这个一般比较轻）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 分部管理须知
 
-- Bulleted
-- List
+分部作为联盟各成员群交流合作的主要场所，对联盟具有重要意义，因此由联盟中枢直接管辖。
 
-1. Numbered
-2. List
+分部群主由中枢派任，管理员由创始群主和监督员担任。
 
-**Bold** and _Italic_ and `Code` text
+分部实行监督员制度，由中枢选出若干名监督员进入分部监督，监督员职业范围在于监督群内秩序，带动群内活跃度，调节群内节奏等任务，监督员直接对中枢部门负责，由一位创始群主带领，如遇特殊情况，监督员不得自作决定，需上报中枢，由中枢决策，若出现监督员出现公权私用情况，恶意打压分部群员，一次警告，二次撤职，如果态度恶劣，情节严重，直接开除盟籍，并全盟封杀。
 
-[Link](url) and ![Image](src)
-```
+分部主要成员为成员群成员，各成员群需派遣群主与代表，议员入驻，负责已群与联盟事宜，另外成员群也可进入分部交流学习，参加活动。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qiyuanshijie3/qiyuanshijie3.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+分部每一或两周会举办主题活动，旨在丰富群员知识，带动群内气氛，推进科学，历史，军事等普及，主题活动由各成员群轮流包办，主题由分部讨论决定，也可由包办群自行决定，中枢可指定主题。
